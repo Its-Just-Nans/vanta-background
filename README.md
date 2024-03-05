@@ -1,2 +1,3 @@
 # vanta-background
-Background with vanta
+
+Background with [vanta](https://github.com/tengbao/vanta)
